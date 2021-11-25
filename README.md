@@ -1,5 +1,4 @@
-# The-Android-App-Market-on-Google-Play
-<h1>Project Name: The Android App Market on Google Play</h1>
+# Project Name: The Android App Market on Google Play
 
 <h2>Project Description: </h2>
 
